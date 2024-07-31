@@ -56,13 +56,9 @@ h4{
 .amenities:hover .popover,
 .locations:hover .popover{
 display: block;
-/*.amenities:hover .popover1{
-display: block;*/
 } 
 .popover{
     display: none;
-    /*height: 100%;*/
-    /*align-content: center;*/
     background: #FAFAFA;
     position: relative;
     border: #DDDDDD 1px solid;
@@ -78,5 +74,3 @@ li{
     margin-top:10px;
     margin-bottom:10px;
 }
-/*dropdown:hover .dropdown-content {
-  display: block;*/
